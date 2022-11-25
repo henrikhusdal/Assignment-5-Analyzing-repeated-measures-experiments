@@ -6,6 +6,8 @@ editor: visual
 
 #Introduksjon
 
+Adaptasjoner i menneskekroppen til styrketrening henger sammen med en rekke faktorer, både biologiske, genetiske og ytre faktorer. Av disse finner vi treningsvolum, intensitet, valg av øvelser, hvile mellom sett, hurtigheten på utførelsen på øvelsene og hyppigheten på treningen (Ratamess et al., 2009). Genetiske disposisjoner synes å ha en betydelig innvirkning på responsen av trening (Yang et al., 2003). Styrketrening har en rekke prestasjonsmessige fordeler i idretter som stiller krav til styrke, men også utholdenhetsidrett (Rønnestad et al., 2014; Beattie et al., 2014), men også i et folkehelseperspektiv (Westcott, 2012). I et folkehelseperspektiv har blitt gjennomført en rekke studier på hvor mye/lite som kreves for å få en vesentlig gevinst. En del har funnet at et minimalt volum gir adaptasjoner på muskelmasse og styrke som moderat-volum (Ostrowski et al. 1997; Cannon & Marino, 2010; Mitchell et al. 2012), mens flere metaanalyser favoriserer et moderat volum (Rhea et al. 2003; Krieger, 2009, 2010; Schoenfeld et al. 2016). 
+
 #Metode
 
 ##Deltakere og studieoversikt
